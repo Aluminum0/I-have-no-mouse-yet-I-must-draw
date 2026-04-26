@@ -1,0 +1,1 @@
+clang main.c -o pinkandyellow.exe -Iinclude -Llib -lraylib -luser32 -lgdi32 -lwinmm -lshell32 --target=x86_64-pc-windows-msvc
