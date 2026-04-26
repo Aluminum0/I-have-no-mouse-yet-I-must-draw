@@ -13,7 +13,7 @@
 *
 *   Copyright (c) 2025 Robin (@RobinsAviary)
 *
-* THIS SPECIFIC FORK OF THE SOFTWARE IS NOT TO BE DISTRIBUTED, SOLD, OR OTHERWISE USED EXCEPT TO GIVE SODA A VERY HAPPY BIRTHDAY
+*
 ********************************************************************************************/
 
 #include "raylib.h"
