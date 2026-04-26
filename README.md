@@ -1,11 +1,11 @@
 ### KeyDraw
 
 KeyDraw is a rudimentary drawing app that uses keybinds to do actions on the app.
+This was forked from raylib [shapes] example - lines drawing.
+The original copyright comes from Copyright (c) 2025 Robin (@RobinsAviary).
 
 
-
-
-**Installation Guide:**
+## Installation Guide:
 I have no idea how to do this.
 
 *Windows:*
