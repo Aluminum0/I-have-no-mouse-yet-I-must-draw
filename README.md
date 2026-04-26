@@ -1,4 +1,4 @@
-**KeyDraw**
+### KeyDraw
 
 KeyDraw is a rudimentary drawing app that uses keybinds to do actions on the app.
 
