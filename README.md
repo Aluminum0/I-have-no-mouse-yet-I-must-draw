@@ -6,7 +6,7 @@ The original copyright comes from Copyright (c) 2025 Robin (@RobinsAviary).
 
 
 ## Installation Guide:
-I have no idea how to do this.
+Quick reminder: I have asbolutely no idea how to make this work outside of windows, if you want to help build mac or linux support, please reach out!
 
 *Windows:*
 clone the repo and run the exe.
