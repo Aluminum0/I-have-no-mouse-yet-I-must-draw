@@ -30,7 +30,7 @@ int main(void)
     const int screenWidth = 800;
     const int screenHeight = 450;
 
-    InitWindow(screenWidth, screenHeight, "raylib [forked] - Happy birthday!");
+    InitWindow(screenWidth, screenHeight, "KeyDraw - ");
 
     // Hint text that shows before you click the screen
     bool startText = true;
@@ -136,7 +136,7 @@ int main(void)
                 TraceLog(LOG_INFO, "SCREENSHOT TAKEN!");
             }
             // Draw the hint text
-            if (startText) DrawText("Happy Birthday! try clicking and dragging!", 150, 155, 20, LIGHTGRAY);
+            if (startText) DrawText("Try dragging and clicking!", 150, 155, 20, LIGHTGRAY);
 
         EndDrawing();
         //----------------------------------------------------------------------------------
